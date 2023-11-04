@@ -2,7 +2,7 @@
 
 A Selenium scraper for scraping websites, checking HTTP requests/responses, saving the resources, emulating logins, taking screenshots and finding interesting things inside the source code.
 
-![Grim Scraper](/grim-scraper.png)
+![Grim Scraper](/grimscraper.png)
 
 ## Example usage:
 ```
